@@ -5,7 +5,7 @@
 # 	Note: A receiver should be waiting to receive the file before senders sends.
 #	Note: IP show only works on 192.168.X.X private series, however functionality may work in others.
 # 
-#	Author: Arun Babu 	
+#	Author: Arun Babu 	<zyberkiddy@yahoo.com>
 #	Date: 11-Sept-2012
 #	
 #	Use `chmod +x transfer.sh` to get execute permissions
